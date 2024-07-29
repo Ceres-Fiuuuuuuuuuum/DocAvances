@@ -5,7 +5,7 @@
 \usepackage{gensymb}
 
 \title{Rover Advancements - Ceres}
-\author{Nicolas Correal Murillo \and Felipe Ruiz Sosa}
+\author{Nicolas Correal Murillo \and Juan Felipe Ruiz Sosa}
 \date{\today}
 
 \begin{document}
@@ -102,35 +102,63 @@ In this document we highlight our most relevant milestones, along with the main 
 \subsubsection{First Cycloidal Drive prototype}
 \paragraph[short]{Development}
 \begin{itemize}
-    \item 
+    \item A cycloidal drive was designed to fit within the stator of the motor, thereby optimizing its volume. This gearbox features a central shaft (highlighted in the photo) which is anchored to the motor rotor. As it rotates, the discs on the shaft (highlighted in the photo) turn with the desired reduction ratio due to the shape of the ring (highlighted in the photo). To capture this reduction, the discs have holes through which the output shaft (highlighted in the photo) is inserted, rotating with the expected reduction ratio, which in this case is 8:1. Thus, for every 8 turns of the rotor, the output makes 1 turn, but with greater torque.
+    \item Some parts were printed to test the concept with bearings and screws, and to adjust the design based on the results.
+    \item The entire prototype was 3D printed in plastic and assembled with bearings and screws.
+    \item Tests were made to verify that the expected reduction in terms of rotations was being achieved.
 \end{itemize}
 \paragraph[short]{Results}
 \begin{itemize}
-    \item 
+    \item The cycloidal drive was operational.
+    \item The expected reduction ratio of 8:1 in terms of rotations was achieved.
+    \item Some screws collided due to the dimensions of the parts and the screws themselves, causing friction that hindered the gearbox's movement.
+    \item The alignment method was insufficient, causing the gearbox to twist during operation.
 \end{itemize}
 
 \paragraph[short]{Conclusions}
 \begin{itemize}
-    \item 
+    \item Details such as the sizes of the parts and screws need to be adjusted so that tolerance does not interfere with the movement.
+    \item The efficiency of torque transmission in the reduction needs to be calculated.
+    \item With the necessary adjustments, the cycloidal drive will be ready to be assembled with the motor for testing maximum torque, speed, and consumption.
 \end{itemize}
 
 \subsubsection{First \textbf{Internal} Cycloidal Drive prototype}
 \paragraph[short]{Development}
 \begin{itemize}
-    \item 
+    \item A design was created to connect the rotor (motor output) to the cycloidal drive shaft (gearbox input) located within the stator to optimize motor volume. Additionally, an external base was designed to cover the motor and support and stabilize the cycloidal drive output.
+    \item The entire prototype was 3D printed in plastic and assembled with bearings and screws.
+    \item Tests of motor and the cycloidal drive movement were made with this new design.
 \end{itemize}
 \paragraph[short]{Results}
 \begin{itemize}
-    \item 
+    \item The Internal Cycloidal Drive was operational.
+    \item Some parts were too close together, causing friction and slightly hindering the motor's movement.
+    \item The base lacked a component to prevent unwanted rotation of the cycloidal drive shaft, causing the motor to stop on some occasions.
 \end{itemize}
 
 \paragraph[short]{Conclusions}
 \begin{itemize}
-    \item 
+    \item Tolerances and the placement of some screws need to be corrected in the design to prevent collisions.
+    \item A component should be implemented to keep the cycloidal drive shaft stable.
+    \item Since the motor operates with its cycloidal drive, it is necessary to conduct speed and torque tests on the next prototype. Therefore, a test setup with the necessary sensors should be designed to obtain these data.
 \end{itemize}
 
+\subsubsection{Second \textbf{Internal} Cycloidal Drive prototype}
+\paragraph[short]{Development}
+\begin{itemize}
+    \item A new prototype of the Internal Cycloidal Drive was designed, in which the screws on the output shaft holding the bearings were replaced with steel pins to support bushings, improving its stability. Additionally, sizes and distances between parts were corrected to prevent friction and reduce motor performance. A cover was also implemented on the base to stabilize the rotor and the cycloidal drive shaft.
+    \item The entire prototype was 3D printed in plastic and assembled with bearings, bushings. steel pins and screws.
+    \item 
+\end{itemize}
+\paragraph[short]{Results}
+\begin{itemize}
+    \item
+\end{itemize}
 
-
+\paragraph[short]{Conclusions}
+\begin{itemize}
+    \item
+\end{itemize}
 
 \section{Future Goals and Objectives}
 Outline upcoming milestones and targets for the project, discussing the expected impacts and contributions to the broader field of space exploration.
