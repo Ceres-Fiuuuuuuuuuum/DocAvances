@@ -1,27 +1,64 @@
-\contentsline {section}{\numberline {1}Milestones Achieved}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Motors}{2}{}%
-\contentsline {subsubsection}{\numberline {1.1.1}First prototype}{2}{}%
-\contentsline {paragraph}{Developments}{2}{}%
-\contentsline {paragraph}{Results}{2}{}%
-\contentsline {paragraph}{Conclusions}{3}{}%
-\contentsline {subsubsection}{\numberline {1.1.2}Second prototype}{3}{}%
-\contentsline {paragraph}{short}{3}{}%
-\contentsline {paragraph}{Results}{3}{}%
-\contentsline {paragraph}{Conclusions}{3}{}%
-\contentsline {subsubsection}{\numberline {1.1.3}Third Protoype}{4}{}%
-\contentsline {paragraph}{short}{4}{}%
-\contentsline {paragraph}{short}{4}{}%
-\contentsline {subsubsection}{\numberline {1.1.4}First Cycloidal Drive prototype}{4}{}%
-\contentsline {paragraph}{short}{4}{}%
-\contentsline {paragraph}{short}{5}{}%
-\contentsline {paragraph}{short}{5}{}%
-\contentsline {subsubsection}{\numberline {1.1.5}First \textbf {Internal} Cycloidal Drive prototype}{5}{}%
-\contentsline {paragraph}{short}{5}{}%
-\contentsline {paragraph}{short}{6}{}%
-\contentsline {paragraph}{short}{6}{}%
-\contentsline {subsubsection}{\numberline {1.1.6}Second \textbf {Internal} Cycloidal Drive prototype}{6}{}%
-\contentsline {paragraph}{short}{6}{}%
-\contentsline {paragraph}{short}{6}{}%
-\contentsline {paragraph}{short}{6}{}%
-\contentsline {section}{\numberline {2}Future Goals and Objectives}{6}{}%
-\contentsline {section}{\numberline {3}Investment Opportunities}{7}{}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Gantt Chart - Work in Progress}{5}{section.2}%
+\contentsline {section}{\numberline {3}Milestones Achieved}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Motors}{6}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}First prototype}{6}{subsubsection.3.1.1}%
+\contentsline {paragraph}{Developments}{6}{section*.2}%
+\contentsline {paragraph}{Results}{7}{section*.5}%
+\contentsline {paragraph}{Conclusions}{8}{section*.7}%
+\contentsline {subsubsection}{\numberline {3.1.2}Second prototype}{8}{subsubsection.3.1.2}%
+\contentsline {paragraph}{short}{8}{section*.8}%
+\contentsline {paragraph}{Results}{9}{section*.10}%
+\contentsline {paragraph}{Conclusions}{10}{section*.12}%
+\contentsline {subsubsection}{\numberline {3.1.3}Third Protoype}{10}{subsubsection.3.1.3}%
+\contentsline {paragraph}{short}{10}{section*.13}%
+\contentsline {paragraph}{short}{11}{section*.15}%
+\contentsline {subsubsection}{\numberline {3.1.4}First Cycloidal Drive prototype}{11}{subsubsection.3.1.4}%
+\contentsline {paragraph}{short}{11}{section*.16}%
+\contentsline {paragraph}{short}{13}{section*.18}%
+\contentsline {paragraph}{short}{13}{section*.19}%
+\contentsline {subsubsection}{\numberline {3.1.5}First \textbf {Internal} Cycloidal Drive prototype}{13}{subsubsection.3.1.5}%
+\contentsline {paragraph}{short}{13}{section*.20}%
+\contentsline {paragraph}{short}{14}{section*.22}%
+\contentsline {paragraph}{short}{15}{section*.24}%
+\contentsline {subsubsection}{\numberline {3.1.6}Second \textbf {Internal} Cycloidal Drive prototype}{16}{subsubsection.3.1.6}%
+\contentsline {paragraph}{short}{16}{section*.25}%
+\contentsline {paragraph}{short}{16}{section*.26}%
+\contentsline {paragraph}{short}{17}{section*.29}%
+\contentsline {subsection}{\numberline {3.2}Chasis}{17}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}}{17}{subsubsection.3.2.1}%
+\contentsline {paragraph}{Development}{17}{section*.30}%
+\contentsline {paragraph}{Results}{18}{section*.31}%
+\contentsline {paragraph}{short}{19}{section*.35}%
+\contentsline {subsection}{\numberline {3.3}Rockers}{20}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}First Prototype}{20}{subsubsection.3.3.1}%
+\contentsline {paragraph}{short}{20}{section*.36}%
+\contentsline {paragraph}{short}{20}{section*.38}%
+\contentsline {paragraph}{short}{21}{section*.40}%
+\contentsline {subsection}{\numberline {3.4}}{21}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}First Protoype}{21}{subsubsection.3.4.1}%
+\contentsline {paragraph}{short}{21}{section*.41}%
+\contentsline {paragraph}{short}{22}{section*.43}%
+\contentsline {paragraph}{short}{22}{section*.44}%
+\contentsline {subsubsection}{\numberline {3.4.2}Second Protoype}{22}{subsubsection.3.4.2}%
+\contentsline {paragraph}{short}{22}{section*.45}%
+\contentsline {paragraph}{short}{23}{section*.47}%
+\contentsline {paragraph}{short}{24}{section*.49}%
+\contentsline {subsection}{\numberline {3.5}Design and Brand}{24}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Defining Mision, Vision, Objectives and Values}{24}{subsubsection.3.5.1}%
+\contentsline {paragraph}{Development}{24}{section*.50}%
+\contentsline {paragraph}{Results}{26}{section*.54}%
+\contentsline {paragraph}{Conclusions}{27}{section*.56}%
+\contentsline {subsubsection}{\numberline {3.5.2}Defining Name, Color Palette and Fonts}{27}{subsubsection.3.5.2}%
+\contentsline {paragraph}{Development}{27}{section*.57}%
+\contentsline {paragraph}{Results}{28}{section*.59}%
+\contentsline {paragraph}{Conclusions}{29}{section*.62}%
+\contentsline {subsubsection}{\numberline {3.5.3}Budget Panel}{29}{subsubsection.3.5.3}%
+\contentsline {paragraph}{Development}{29}{section*.63}%
+\contentsline {paragraph}{Results}{30}{section*.65}%
+\contentsline {paragraph}{Conclusions}{30}{section*.67}%
+\contentsline {subsection}{\numberline {3.6}Screen}{31}{subsection.3.6}%
+\contentsline {paragraph}{short}{31}{section*.68}%
+\contentsline {paragraph}{short}{31}{section*.69}%
+\contentsline {paragraph}{short}{31}{section*.71}%
+\contentsline {section}{\numberline {4}Future Goals and Objectives}{32}{section.4}%
